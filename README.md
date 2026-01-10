@@ -1,13 +1,14 @@
 # portal-solutions-extism-compat
 
 ## Description
-Project portal-solutions-extism-compat
+Compatibility layer for Extism plugins within Portal apps.
 
 ## Goals
-- [ ] Add project goals
+- [ ] Enable Extism plugin execution
+- [ ] Bridge host functions
 
 ## Progress
-- [ ] Initial setup
+- [ ] Crate initialized
 
 ---
 *AI assisted*
